@@ -1,0 +1,26 @@
+﻿# Compiled executables and build artifacts
+*.exe
+*.obj
+*.o
+*.out
+build/
+dist/
+
+# Generated simulation data
+replay.jsonl
+final.jsonl
+test.jsonl
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
